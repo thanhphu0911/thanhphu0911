@@ -1,11 +1,11 @@
 <img align="center" src="Banner.png"/>
 
-<h1 align="center">Hey! I'm Phu Nguyen, a Front-End Developer</h1>
+<h1 align="center">Welcome! I'm Phu Nguyen, a Front-End Developer</h1>
 <h4 align="center">I am a passionate Front-End developer making my way to become a great Software Engineer!</h4>
 
   - 💬 Ask me about **javascript and html/css**
   - 📫 How to reach me: **thanhphu0911@gmail.com**
-  - ⚡ Fun fact: **I am always smiling** 
+  - ⚡ Fun fact: **I am a part-time extrovert** 
     <!--  - 👨‍💻 You can find more info about me at [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
     <!--- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/) -->
 
@@ -19,7 +19,7 @@
 -->
 
 
-<div>
+<div width ="100vw">
    <a href="https://github.com/thanhphu0911">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhphu0911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thanhphu0911&layout=compact&langs_count=6&theme=tokyonight"/>

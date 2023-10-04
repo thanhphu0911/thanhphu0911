@@ -22,7 +22,7 @@
 <div >
    <a href="https://github.com/thanhphu0911">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhphu0911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thanhphu0911&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thanhphu0911&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
   <!--   

@@ -20,11 +20,11 @@
 
 
 <div align="center">
-    <a href="https://github.com/laranjeirapedro">
-        <img height="200em" width="48%"
+    <a href="https://github.com/thanhphu0911">
+        <img height="200em"
             src="https://github-readme-stats.vercel.app/api?username=thanhphu0911&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphu0911&layout=compact&theme=github_dark" alt="Top Languages">
+    <a href="https://github.com/thanhphu0911/github-readme-stats">
+      <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphu0911&layout=compact&theme=github_dark" alt="Top Languages">
     </a>
 </div>
 

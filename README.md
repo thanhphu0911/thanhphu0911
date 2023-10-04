@@ -19,7 +19,7 @@
 -->
 
 
-<div align="center">
+<div>
     <a href="https://github.com/thanhphu0911">
         <img height="200em"
             src="https://github-readme-stats.vercel.app/api?username=thanhphu0911&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>

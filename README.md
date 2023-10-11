@@ -5,7 +5,7 @@
 
   - 💬 Ask me about **javascript and html/css**
   - 📫 How to reach me: **thanhphu0911@gmail.com**
-  - ⚡ Fun fact: **I am a part-time extrovert** 
+  - ⚡ Fun fact: **I am way sociable outside than on the Internet** 
     <!--  - 👨‍💻 You can find more info about me at [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
     <!--- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/) -->
 
